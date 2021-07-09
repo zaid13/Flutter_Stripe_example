@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210626741376",
+    "project_id": "zaid-firebase-personal-account",
+    "storage_bucket": "zaid-firebase-personal-account.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210626741376:android:36a18457e0a4bb5e8a5265",
+        "android_client_info": {
+          "package_name": "com.example.stripe_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210626741376-mvq4vob1vdf4t5jcat7doignu09lt1f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stripe_example",
+            "certificate_hash": "94e2a6a619a0f7b52db3605d0d99c19bc233860a"
+          }
+        },
+        {
+          "client_id": "210626741376-do2m7nobquj8c01n36qdqglvmi1hki74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApw7t97KCpAxLtYlPxPt9YJs738tD49_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210626741376-do2m7nobquj8c01n36qdqglvmi1hki74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
